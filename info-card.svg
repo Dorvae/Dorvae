@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="340" viewBox="0 0 490 340" font-family="'Cascadia Code', 'Fira Code', Consolas, monospace">
+<rect width="100%" height="100%" fill="#0d1117" rx="10"/>
+<rect x="0" y="0" width="490" height="34" fill="#161b22" rx="10"/>
+<rect x="0" y="24" width="490" height="10" fill="#161b22"/>
+<circle cx="18" cy="17.0" r="6" fill="#ff5f56"/>
+<circle cx="36" cy="17.0" r="6" fill="#ffbd2e"/>
+<circle cx="54" cy="17.0" r="6" fill="#27c93f"/>
+<text x="245.0" y="21.0" fill="#8b949e" font-size="12" text-anchor="middle">douae@github: neofetch</text>
+<text x="20" y="64" fill="#39d353" font-size="15" font-weight="bold">douae@github</text>
+<line x1="20" y1="72" x2="470" y2="72" stroke="#8b949e" stroke-width="1" opacity="0.4"/>
+<g opacity="0"><text x="20" y="98" font-size="13"><tspan fill="#69f0a0" font-weight="bold">now</tspan><tspan fill="#8b949e">  </tspan><tspan fill="#c9d1d9">Cybersecurity Eng. student @ ENSAO -- open to Stage PFA 2026</tspan></text><animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.35s" fill="freeze"/></g>
+<g opacity="0"><text x="20" y="124" font-size="13"><tspan fill="#69f0a0" font-weight="bold">prev</tspan><tspan fill="#8b949e">  </tspan><tspan fill="#c9d1d9">Security observation stage -- SRM Orientale (AD, GPO, SOC practices)</tspan></text><animate attributeName="opacity" from="0" to="1" begin="0.37s" dur="0.35s" fill="freeze"/></g>
+<g opacity="0"><text x="20" y="150" font-size="13"><tspan fill="#69f0a0" font-weight="bold">stack</tspan><tspan fill="#8b949e">  </tspan><tspan fill="#c9d1d9">Python . Linux . Splunk . Wazuh . Wireshark . Metasploit . TensorFlow</tspan></text><animate attributeName="opacity" from="0" to="1" begin="0.59s" dur="0.35s" fill="freeze"/></g>
+<g opacity="0"><text x="20" y="176" font-size="13"><tspan fill="#69f0a0" font-weight="bold">focus</tspan><tspan fill="#8b949e">  </tspan><tspan fill="#c9d1d9">Detection engineering . Blue Team . Applied ML for security</tspan></text><animate attributeName="opacity" from="0" to="1" begin="0.81s" dur="0.35s" fill="freeze"/></g>
+<g opacity="0"><text x="20" y="202" font-size="13"><tspan fill="#69f0a0" font-weight="bold">cert</tspan><tspan fill="#8b949e">  </tspan><tspan fill="#c9d1d9">TryHackMe -- SOC Level 1 (Analyst Path)</tspan></text><animate attributeName="opacity" from="0" to="1" begin="1.03s" dur="0.35s" fill="freeze"/></g>
+<g opacity="0"><text x="20" y="228" font-size="13"><tspan fill="#69f0a0" font-weight="bold">highlight</tspan><tspan fill="#8b949e">  </tspan><tspan fill="#c9d1d9">ML-based IDS w/ SHAP explainability (RF/SVM + LSTM/CNN)</tspan></text><animate attributeName="opacity" from="0" to="1" begin="1.25s" dur="0.35s" fill="freeze"/></g>
+<g opacity="0"><text x="20" y="254" font-size="13"><tspan fill="#69f0a0" font-weight="bold">highlight</tspan><tspan fill="#8b949e">  </tspan><tspan fill="#c9d1d9">SSH brute-force detection pipeline -- Hydra to Splunk SPL dashboard</tspan></text><animate attributeName="opacity" from="0" to="1" begin="1.47s" dur="0.35s" fill="freeze"/></g>
+<g opacity="0"><text x="20" y="280" font-size="13"><tspan fill="#69f0a0" font-weight="bold">club</tspan><tspan fill="#8b949e">  </tspan><tspan fill="#c9d1d9">Red Phoenix Cybersecurity Club -- Treasurer &amp; active member</tspan></text><animate attributeName="opacity" from="0" to="1" begin="1.69s" dur="0.35s" fill="freeze"/></g>
+<rect x="20" y="314" width="22" height="14" fill="#0d1117" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.91s" dur="0.4s" fill="freeze"/></rect>
+<rect x="44" y="314" width="22" height="14" fill="#ff5f56" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.91s" dur="0.4s" fill="freeze"/></rect>
+<rect x="68" y="314" width="22" height="14" fill="#39d353" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.91s" dur="0.4s" fill="freeze"/></rect>
+<rect x="92" y="314" width="22" height="14" fill="#ffbd2e" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.91s" dur="0.4s" fill="freeze"/></rect>
+<rect x="116" y="314" width="22" height="14" fill="#58a6ff" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.91s" dur="0.4s" fill="freeze"/></rect>
+<rect x="140" y="314" width="22" height="14" fill="#bc8cff" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.91s" dur="0.4s" fill="freeze"/></rect>
+<rect x="164" y="314" width="22" height="14" fill="#39c5cf" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.91s" dur="0.4s" fill="freeze"/></rect>
+<rect x="188" y="314" width="22" height="14" fill="#c9d1d9" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.91s" dur="0.4s" fill="freeze"/></rect>
+</svg>
